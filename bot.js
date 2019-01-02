@@ -4,7 +4,7 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("https://discord.gg/M7VQxy")
+let channel =     client.channels.get("526446551443439617")
 setInterval(function() {
 channel.send(`بسم الله الرحمن الرحيم`);
 }, 30)
